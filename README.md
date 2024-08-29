@@ -5,4 +5,4 @@
 <h3 align="center">Tech Stack</h3>
 <div align="center">
 </div>
-![Suyong's GitHub stats](https://github-readme-stats.vercel.app/api?username=leesuyong&show_icons=true&theme=radical)
+![Suyong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suyong Lee&show_icons=true&theme=radical)
