@@ -16,7 +16,7 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
-<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoungSuOh)](https://github.com/anuraghazra/github-readme-stats)
+<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leesuyong4029)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 
