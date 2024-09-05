@@ -17,6 +17,7 @@
 <br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leesuyong4029)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
+![leesuyong4029's GitHub stats](https://github-readme-stats.vercel.app/api?username=leesuyong4029&show_icons=true&theme=radical)
 
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edgarlee9364@gmail.com)](mailto:edgarlee9364@gmail.com)
