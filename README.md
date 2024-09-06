@@ -1,10 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Suyong's%20GitHub&fontSize=90" />
 </div>
-
-
-### 👋 About me
-[![Resume](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/46f37dd53f2e4801823b0383539c747c?pvs=4)
+ *** 
 
 <div align = "center">
   <div style="text-align: center;">
