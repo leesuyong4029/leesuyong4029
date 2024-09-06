@@ -24,7 +24,7 @@
 
 <div align = "center">
 <div style="text-align: center;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
+    <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h1> <br> 
     <div style="margin: ; text-align: center;" "text-align: center;"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -42,8 +42,8 @@
 </div>
 
 *** 
-<div>
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Contacts </h2> <br>
+<div align="center">
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📬Contacts </h2> <br>
   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edgarlee9364@gmail.com)](mailto:edgarlee9364@gmail.com">
 </div>
 
