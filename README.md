@@ -10,8 +10,7 @@
     <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/46f37dd53f2e4801823b0383539c747c?pvs=4">
     <p>
       <b>Consistency</b>
-      <ol>Consistency</ol>
-      <ol>exercise 💪🏻 </ol>
+      <a href="https://youtube.com/shorts/btFf42q-ETc?si=SyPvrMT74-QfsYgp"></a>     
     </p>
   </div>
 </div>
