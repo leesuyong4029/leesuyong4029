@@ -12,7 +12,10 @@
 </div>
 
 ***
-
+<div align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qufahdid40)](https://solved.ac/qufahdid40/">
+  <img src="https://github-readme-stats.vercel.app/api?username=leesuyong4029&show_icons=true&theme=radical">
+</div>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qufahdid40)](https://solved.ac/qufahdid40/)
 ![leesuyong4029's GitHub stats](https://github-readme-stats.vercel.app/api?username=leesuyong4029&show_icons=true&theme=radical)
 ***
@@ -26,7 +29,7 @@
 
 <div align = "center">
 <div style="text-align: center;">
-    <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h1> <br> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: center;" "text-align: center;"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
