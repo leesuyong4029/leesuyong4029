@@ -10,6 +10,7 @@
     <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/46f37dd53f2e4801823b0383539c747c?pvs=4">
     <p>
       <b>금융을 이해하는 개발자가 되기 위해 노력합니다.</b>
+      <p></p>
     </p>
   </div>
 </div>
