@@ -34,13 +34,6 @@
 *** 
 
 <div align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qufahdid40)](https://solved.ac/qufahdid40">
-  <img src="https://github-readme-stats.vercel.app/api?username=leesuyong4029&show_icons=true&theme=radical">
-</div>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qufahdid40)](https://solved.ac/qufahdid40/)
-![leesuyong4029's GitHub stats](https://github-readme-stats.vercel.app/api?username=leesuyong4029&show_icons=true&theme=radical)
-
-<div align="center">
   <p align="center">
     <a href="https://solved.ac/qufahdid40/">
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qufahdid40" alt="Solved.ac Profile" />
@@ -49,9 +42,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=leesuyong4029&show_icons=true&theme=radical" alt="leesuyong4029's GitHub stats" />
   </p>
 </div>
-
-
-
 
 ***
 <div align="center">
