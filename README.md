@@ -34,11 +34,10 @@
 *** 
 
 <div align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qufahdid40)](https://solved.ac/qufahdid40">
-  <img src="https://github-readme-stats.vercel.app/api?username=leesuyong4029&show_icons=true&theme=radical">
-</div>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qufahdid40)](https://solved.ac/qufahdid40/)
 ![leesuyong4029's GitHub stats](https://github-readme-stats.vercel.app/api?username=leesuyong4029&show_icons=true&theme=radical)
+</div>
+
 ***
 <div align="center">
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
