@@ -8,9 +8,8 @@
 <div align = "center">
   <div style="text-align: center;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 👋 About me </h2><br>
-    <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/46f37dd53f2e4801823b0383539c747c?pvs=4">
     <p>
-      <a href="https://youtube.com/shorts/btFf42q-ETc?si=SyPvrMT74-QfsYgp"><b>Consistency</b></a>     
+      Final Voca: <a href="https://youtube.com/shorts/btFf42q-ETc?si=SyPvrMT74-QfsYgp"><b>Consistency</b></a>     
     </p>
   </div>
 </div>
