@@ -8,11 +8,10 @@
 <div align = "center">
   <div style="text-align: center;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 👋 About me </h2><br>
-    <p>
-      Final Voca: Consistency <a href="https://youtube.com/shorts/btFf42q-ETc?si=SyPvrMT74-QfsYgp">: YouTube </a>     
-    </p>
   </div>
 </div>
+# Final Voca: Consistency ![image](https://github.com/user-attachments/assets/d6854d16-f526-47fd-a404-291a3cc55f1b)
+
 
 ***
 <div align = "center">
