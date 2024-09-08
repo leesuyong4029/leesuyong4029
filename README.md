@@ -9,7 +9,7 @@
   <div style="text-align: center;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 👋 About me </h2><br>
     <p>
-      <h2>Final Voca: </h2> <a href="https://youtube.com/shorts/btFf42q-ETc?si=ROpy25NCGjlntKmE"><img src="https://github.com/user-attachments/assets/985a7be1-2009-4165-ad28-e5765a0e888a">
+      <h2>Final Voca: Consistency<a href="https://youtube.com/shorts/btFf42q-ETc?si=ROpy25NCGjlntKmE"><img src="https://github.com/user-attachments/assets/985a7be1-2009-4165-ad28-e5765a0e888a"> </h2>
 </a>
     </p>
   </div>
