@@ -44,7 +44,9 @@
 
 <div align="center">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leesuyong4029" alt="Top Languages" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leesuyong4029&layout=compact&theme=transparent" alt="Top Langs">
+</a>
     <br />
     <img src="https://github-readme-stats.vercel.app/api?username=leesuyong4029&show_icons=true&theme=radical" alt="leesuyong4029's GitHub stats" />
   </p>
