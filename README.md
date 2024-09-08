@@ -44,9 +44,7 @@
 
 <div align="center">
   <p align="center">
-    <a href="https://solved.ac/qufahdid40/">
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qufahdid40" alt="Solved.ac Profile" />
-    </a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leesuyong4029" alt="Top Languages" />
     <br />
     <img src="https://github-readme-stats.vercel.app/api?username=leesuyong4029&show_icons=true&theme=radical" alt="leesuyong4029's GitHub stats" />
   </p>
