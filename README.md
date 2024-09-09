@@ -8,10 +8,17 @@
 <div align = "center">
   <div style="text-align: center;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 👋 About me </h2><br>
-     <p>Consistency</p></br>
+     <h3><b>Consistency</b></h3></br>
      <a href="https://youtube.com/shorts/btFf42q-ETc?si=ROpy25NCGjlntKmE">
-       <img src="https://github.com/user-attachments/assets/985a7be1-2009-4165-ad28-e5765a0e888a", width=20, height=30>
-     </a> 
+       <img src="https://github.com/user-attachments/assets/985a7be1-2009-4165-ad28-e5765a0e888a", width=20, height=20>
+     </a> </br>
+     <p>
+         안녕하세요 👋🏼 </br></br> 
+       금융의 관점에서 세상을 바라볼려고 노력하는 이수용입니다. </br>
+       백엔드, DevOps에 관심이 많고 협업하는 것을 좋아합니다. </br>
+       재능도 물론 중요하지만 꾸준함과 Hard-work가 더 중요하다고 생각합니다. </br>
+     </p>
+    
   </div>
 </div>
 
@@ -19,7 +26,7 @@
 
 <div align="center">
   <div style="text-align: center;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 👋 Education </h2><br>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ✍🏼 Education </h2><br>
     <p>- 신한투자증권 프로 디지털 아카데미 5기 (2024.08 - ing)</p>
     <p>- 인하대학교 컴퓨터공학과 졸업 (2017.02 - 2024.08) </p>
   </div>
@@ -28,7 +35,7 @@
 ***
 <div align="center">
   <div style="text-align: center;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Experiences </h2>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑🏽‍💻 Experiences </h2>
     <p>- UMC Server SpringBoot 4,5th (2023.03 ~ 2024.02)</p>
     <p>- 인하대학교 가치투자 동아리 블루칩 뮤츄얼 펀드 (2021.03 ~ 2024.08)</p>    
 </div>
@@ -63,6 +70,7 @@
 
 <div align="center">
   <p align="center">
+  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧩 Stats </h2> <br> 
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leesuyong4029&layout=compact&theme=transparent" alt="Top Langs">
 </a>
@@ -79,6 +87,13 @@
 </div>
 
 *** 
+
+<div align="center">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🥏Interests </h2> <br>
+    <p>좋아하는 것: 운동 💪🏼, 여행 🚅</p>
+    <p>자주하는 것: 지하철에서 AC/DC Back in Black, 한요한 400km 듣기</p>
+</div>
+
 <div align="center">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📬Contacts </h2> <br>
   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edgarlee9364@gmail.com)](mailto:edgarlee9364@gmail.com">
