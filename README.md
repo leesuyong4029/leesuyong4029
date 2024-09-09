@@ -12,12 +12,12 @@
      <a href="https://youtube.com/shorts/btFf42q-ETc?si=ROpy25NCGjlntKmE">
        <img src="https://github.com/user-attachments/assets/985a7be1-2009-4165-ad28-e5765a0e888a", width=20, height=20>
      </a> </br></br>
-    <p>
-      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjlnYjJqZ2RndGN1anRuMHNwbDBjM21xd2ZuYTU4cWlscHB4M3djdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gdwJdym3VuXQr5OfAc/giphy.gif">
-    </p>
      <h3>
          안녕하세요 👋🏼 </br></br>
      </h3></br>
+     <p>
+      <img src="https://github.com/user-attachments/assets/b4ca6632-edc1-4733-8e5a-b1cfa53fbde8">
+    </p>
     <p>
        <b>금융의 관점</b>에서 세상을 바라볼려고 노력하는 <b>이수용</b>입니다. </br>
        다양한 <b>백엔드 API</b>를 개발하는데 관심이 많고, 최근에는 <b>DevOps</b> 등을 학습하는 중입니다. </br>
