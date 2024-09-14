@@ -97,12 +97,6 @@
 *** 
 
 <div align="center">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🥏Interests </h2> <br>
-    <p>좋아하는 것: 운동 💪🏼, 여행 🚅, 경제기사 읽기 ✍🏼 </p>
-    <p>자주하는 것: 지하철에서 AC/DC Back In Black 🪕, 한요한 400km 듣기 🎸</p>
-</div>
-
-<div align="center">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📬Contacts </h2> <br>
   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edgarlee9364@gmail.com)](mailto:edgarlee9364@gmail.com"></br>
   <img src="https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true">
