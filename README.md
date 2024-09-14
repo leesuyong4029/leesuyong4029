@@ -41,14 +41,7 @@
 </div>
 
 ***
-<div align="center">
-  <div style="text-align: center;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑🏽‍💻 Experiences </h2>
-    <p>- UMC Server SpringBoot 4, 5기 (2023.03 ~ 2024.02)</p>
-    <p>- 인하대학교 가치투자 동아리 블루칩 뮤츄얼 펀드 (2021.03 ~ 2024.08)</p>    
-</div>
 
-***
 <div align = "center">
 <div style="text-align: center;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
