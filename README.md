@@ -9,10 +9,6 @@
 <div align = "center">
   <div style="text-align: center;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 👋 About me </h2><br>
-     <h3><b>"Consistency"</b></h3></br>
-     <a href="https://youtube.com/shorts/btFf42q-ETc?si=ROpy25NCGjlntKmE">
-       <img src="https://github.com/user-attachments/assets/985a7be1-2009-4165-ad28-e5765a0e888a", width=20, height=20>
-     </a> </br></br>
      <h3>
          안녕하세요 👋🏼 </br></br>
      </h3></br>
@@ -20,7 +16,6 @@
       <img src="https://github.com/user-attachments/assets/b4ca6632-edc1-4733-8e5a-b1cfa53fbde8">
     </p>
     <p>
-       <b>금융의 관점</b>에서 세상을 바라볼려고 노력하는 <b>이수용</b>입니다. </br>
        다양한 <b>백엔드 API</b>를 개발하는데 관심이 많고, 최근에는 <b>DevOps</b> 등을 학습하는 중입니다. </br>
        또한, 동료들과 <b>협업</b>하는 것을 좋아합니다. </br> 
        재능도 물론 중요하지만 <b><i>꾸준함</i></b>과 <b><i>Hard-work</i></b>가 더 중요하다고 생각합니다. </br></br>
@@ -31,16 +26,6 @@
 </div>
 
 *** 
-
-<div align="center">
-  <div style="text-align: center;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🎓 Education </h2><br>
-    <p>- 신한투자증권 프로 디지털 아카데미 5기 (2024.08 - ing)</p>
-    <p>- 인하대학교 컴퓨터공학과 졸업 (2017.02 - 2024.08) </p>
-  </div>
-</div>
-
-***
 
 <div align = "center">
 <div style="text-align: center;">
