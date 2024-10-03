@@ -12,9 +12,6 @@
      <h3>
          안녕하세요 👋🏼 </br></br>
      </h3></br>
-     <p>
-      <img src="https://github.com/user-attachments/assets/b4ca6632-edc1-4733-8e5a-b1cfa53fbde8">
-    </p>
     <p>
        다양한 <b>백엔드 API</b>를 개발하는데 관심이 많고, 최근에는 <b>DevOps</b> 등을 학습하는 중입니다. </br>
        또한, 동료들과 <b>협업</b>하는 것을 좋아합니다. </br> 
