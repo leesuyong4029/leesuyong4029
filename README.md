@@ -16,7 +16,6 @@
        다양한 <b>백엔드 API</b>를 개발하는데 관심이 많고, 최근에는 <b>DevOps</b> 등을 학습하는 중입니다. </br>
        또한, 동료들과 <b>협업</b>하는 것을 좋아합니다. </br> 
        재능도 물론 중요하지만 <b><i>꾸준함</i></b>과 <b><i>노력</i></b>이 더 중요하다고 생각합니다. </br></br>
-    <img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
      </p>
     
   </div>
