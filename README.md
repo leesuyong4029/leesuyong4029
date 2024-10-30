@@ -9,10 +9,6 @@
 <div align = "center">
   <div style="text-align: center;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 👋 About me </h2><br>
-     <h3>
-         안녕하세요 👋🏼 </br></br>
-     </h3></br>
- 
     
   </div>
 </div>
