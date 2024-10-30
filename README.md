@@ -12,11 +12,7 @@
      <h3>
          안녕하세요 👋🏼 </br></br>
      </h3></br>
-    <p>
-       다양한 <b>백엔드 API</b>를 개발하는데 관심이 많고, 최근에는 <b>DevOps</b> 등을 학습하는 중입니다. </br>
-       또한, 동료들과 <b>협업</b>하는 것을 좋아합니다. </br> 
-       재능도 물론 중요하지만 <b><i>꾸준함</i></b>과 <b><i>노력</i></b>이 더 중요하다고 생각합니다. </br></br>
-     </p>
+ 
     
   </div>
 </div>
@@ -42,8 +38,6 @@
           </div>
           <br/><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-          <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
-          <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
       </div>
 </div>
 </div>
