@@ -1,19 +1,9 @@
 <div align="center">
   <img src="https://github.com/fnky/fnky/raw/fnky/img/website.gif" align="center"> </br>
-  <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center"> </br>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleesuyong4029&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits" />
 </div>
 
- *** 
 
-<div align = "center">
-  <div style="text-align: center;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 👋 About me </h2><br>
-    
-  </div>
-</div>
-
-*** 
 
 <div align = "center">
 <div style="text-align: center;">
